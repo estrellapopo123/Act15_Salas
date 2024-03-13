@@ -19,9 +19,14 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 
-![image](https://github.com/estrellapopo123/Act15_Salas/assets/144378353/ea3517d0-1f60-4303-95ae-e91d0d9c993e)
-![image](https://github.com/estrellapopo123/Act15_Salas/assets/144378353/bcc81426-f377-45d8-b567-291734b8b6a2)
-![image](https://github.com/estrellapopo123/Act15_Salas/assets/144378353/0cdcdf39-aa67-43e6-a5b6-1902fc43db83)
+![image](https://github.com/estrellapopo123/Act15_Salas/assets/144378353/f874633c-9243-4e2e-ac8a-bb9f667a988e)
+![image](https://github.com/estrellapopo123/Act15_Salas/assets/144378353/59b4dbdf-b54f-49c0-82b7-d5c9fa36470f)
+![image](https://github.com/estrellapopo123/Act15_Salas/assets/144378353/2f6782f5-2f4a-4804-a2c9-f8ca0d2abc06)
+![image](https://github.com/estrellapopo123/Act15_Salas/assets/144378353/1604a293-f433-4077-bbe4-1f28d30b0c32)
+
+
+
+
 
 
 
