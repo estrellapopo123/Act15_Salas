@@ -20,7 +20,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ![image](https://github.com/estrellapopo123/Act15_Salas/assets/144378353/728091d4-a985-496f-ab09-3e6a1e12642c)
 ![image](https://github.com/estrellapopo123/Act15_Salas/assets/144378353/0cfde776-74fc-4927-899f-b65f262bbe98)
-![image](https://github.com/estrellapopo123/Act15_Salas/assets/144378353/3f26742f-041d-41fb-a7d4-c81a3a87ef78)
+![image](https://github.com/estrellapopo123/Act15_Salas/assets/144378353/cc9c70dc-8460-47f9-8a6f-b993c4755775)
+
 
 
 
